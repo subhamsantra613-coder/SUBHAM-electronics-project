@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subham Electronics Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #0066cc;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>স্বাগতম! SUBHAM Electronics Project-এ</h1>
+    <p>এখানে আমার সমস্ত DIY ইলেকট্রনিক্স প্রজেক্ট এবং ভিডিও দেখতে পাবেন।</p>
+</body>
+</html>
